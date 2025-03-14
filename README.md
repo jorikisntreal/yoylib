@@ -1,7 +1,7 @@
 # YOYlib ReadMe file
 > ## *what the hell is YOYlib?*
->    YOYlib is easy-to-use library used to simplify/shorten Rust syntax
->    I just wanted to make an easy library for myself to make my life easier
+>    YOYlib is easy-to-use library used to simplify/shorten Rust syntax.
+>    I just wanted to make every rust programmer's life easier!
 
 > ## YOYlib functions
 > ### yoy_read()
