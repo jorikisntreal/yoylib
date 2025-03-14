@@ -6,7 +6,7 @@ authors = ["Yorik Jzhmotik"]
 description = "Easy-to-use library to make rust simpler."
 repository = "https://github.com/jorikisntreal/yoylib"
 readme = "README.md"
-license = "The Unlicense"
+license = "Unlicense"
 license-file = "LICENSE.txt"
 
 [dependencies]
