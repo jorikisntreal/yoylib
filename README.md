@@ -7,4 +7,7 @@
 > ### yoy_read()
 >> allows you to read something from the console then save to any *String* variable. A typical usage of yoy_read() would be `let value: String = yoy_read();` which is much easier and faster than rust's approach.
 
-![image](https://github.com/jorikisntreal/yoylib/blob/master/yoygirl.png)
+![image][yoygirl]
+
+
+[yoygirl]: yoygirl.png
